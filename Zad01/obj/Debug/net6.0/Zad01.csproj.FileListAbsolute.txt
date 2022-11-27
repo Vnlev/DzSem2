@@ -1,0 +1,15 @@
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.csproj.AssemblyReference.cache
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.GeneratedMSBuildEditorConfig.editorconfig
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.AssemblyInfoInputs.cache
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.AssemblyInfo.cs
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.csproj.CoreCompileInputs.cache
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\bin\Debug\net6.0\Zad01.exe
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\bin\Debug\net6.0\Zad01.deps.json
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\bin\Debug\net6.0\Zad01.runtimeconfig.json
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\bin\Debug\net6.0\Zad01.dll
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\bin\Debug\net6.0\Zad01.pdb
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.dll
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\refint\Zad01.dll
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.pdb
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\Zad01.genruntimeconfig.cache
+E:\А. КУРС\Курс Разработчик\DzSem02Repo\Dzs2z1\Zad01\obj\Debug\net6.0\ref\Zad01.dll
